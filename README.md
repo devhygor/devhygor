@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Hygor Melo Rocha
 
-- 🔭 Estou em busca do meu primeiro emprego na area de programador
+- 🔭 Os estudos jamais param
 - 🌱 Estudando Python
 
 <div>
