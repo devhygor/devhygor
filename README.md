@@ -1,4 +1,6 @@
-## Olá! Eu sou o Hygor Melo Rocha
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Hygor+Melo+Rocha;Tenho+26+Anos;Amo+Programação;Formado:+Análise+e+Desenvolvimento+de+Sistemas;Sejá+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Os estudos jamais param
 - 🌱 Estudando Python
@@ -36,3 +38,11 @@
 </div>
 
 ![Snake animation](https://github.com/devhygor/devhygor/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+<br><p align="centre"><b>Contador de Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devhygor}/count.svg" /></p> 
+<br>
+</div>
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
