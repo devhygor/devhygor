@@ -39,13 +39,6 @@
 
 ![Snake animation](https://github.com/devhygor/devhygor/blob/output/github-contribution-grid-snake.svg)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/devhygor/devhygor/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/devhygor/devhygor/output/github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://github.com/devhygor/devhygor/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devhygor}/count.svg" /></p> 
