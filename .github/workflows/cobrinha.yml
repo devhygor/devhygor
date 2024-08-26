@@ -11,12 +11,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Step to create dist directory
+      - name: Create dist directory
+        run: mkdir -p dist
+
       # Snake Animation
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: devhygor
-          outputs: dist
+
+      # Move generated SVG to dist directory
+      - name: Move SVG to dist
+        run: mv *.svg dist/
 
       # Upload to GitHub Pages
       - name: Upload Snake to output branch
