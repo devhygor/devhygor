@@ -33,6 +33,8 @@ jobs:
       # generates a snake game from your company's GitHub contributions graph
       - name: generate company github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.COMPANY_GITHUB_TOKEN }}
         with:
           github_user_name: hygor-resale
           outputs: |
