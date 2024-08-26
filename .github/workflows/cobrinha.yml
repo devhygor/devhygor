@@ -12,13 +12,15 @@ jobs:
 
     steps:
       # Snake Animation
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: devhygor
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Upload to GitHub Pages
+      - name: Upload Snake to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
