@@ -38,6 +38,7 @@
 </div>
 
 ![Snake animation](https://github.com/devhygor/devhygor/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/devhygor/devhygor/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
