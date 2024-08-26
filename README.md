@@ -37,7 +37,12 @@
      
 </div>
 
-![Snake animation](https://github.com/devhygor/devhygor/blob/output/github-contribution-grid-snake-dark.svg)
+### Contribuições na conta pessoal
+![GitHub Snake Dark Personal](https://raw.githubusercontent.com/devhygor/devhygor/output/github-contribution-grid-snake-dark-personal.svg#gh-dark-mode-only)
+
+### Contribuições na conta da Empresa Resale
+![GitHub Snake Dark Company](https://raw.githubusercontent.com/devhygor/devhygor/output/github-contribution-grid-snake-dark-company.svg#gh-dark-mode-only)
+
 
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
